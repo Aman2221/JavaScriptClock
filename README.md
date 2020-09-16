@@ -1,1 +1,1 @@
-# JavaScriptClock.github.io
+Real Time clock using JavaScript.
